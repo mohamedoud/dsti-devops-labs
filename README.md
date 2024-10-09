@@ -7,5 +7,5 @@ This lab work covers the basics of Git.
 
 This lab work can be done in a group of **2 students**.
 
-1. Modify a file in the repository and push the modifications
+1. Modify a file
 2. Manage conflicts
